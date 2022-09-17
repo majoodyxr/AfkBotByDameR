@@ -1,6 +1,6 @@
 {
-	"ip":"damertest.aternos.me",
-	"port": 58015,
+	"ip":"Galaxy.aternos.me",
+	"port": 12346,
 	"name": "afkbot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
